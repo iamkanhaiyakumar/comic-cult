@@ -1,18 +1,16 @@
 # Comic-cult
 
-## redbull gives you wings 💸we give you comic 🖼️
+## Red Bull gives you wings 💸 We give you comics 🖼️
 
 ![banner](https://github.com/Girishbari/comic-cult/assets/38005544/8f7228f3-1fa9-488d-9147-2ff3dbbae0bb)
 
-## ℹ️ Project description
+## ℹ️ Project Description
 
-Transform your stories into captivating comic art with dialogue effortlessly! Our project harnesses the power of GemeiAI and stable diffusion for processing and generating stunning images and dialogues. Utilizing feature flags, you can seamlessly toggle environment variables on and off as needed. The final masterpiece is delivered straight to your inbox as a beautifully crafted comic PDF. Enjoy the magic of storytelling in a whole new visual dimension! 📧💬🖼️
-
-</div>
+Transform your stories into captivating comic art with dialogue effortlessly! Our project harnesses the power of GemeiAI and Stable Diffusion for processing and generating stunning images and dialogues. Utilizing feature flags, you can seamlessly toggle environment variables on and off as needed. The final masterpiece is delivered straight to your inbox as a beautifully crafted comic PDF. Enjoy the magic of storytelling in a whole new visual dimension! 📧💬🖼️
 
 ## Demo 💻
 
-https://github.com/Girishbari/comic-cult/assets/38005544/f264d59a-5e9b-46dc-8c3d-0c138cc11de1
+[Watch the demo](https://github.com/Girishbari/comic-cult/assets/38005544/f264d59a-5e9b-46dc-8c3d-0c138cc11de1)
 
 ## ⚒️ Features:
 
@@ -24,28 +22,28 @@ https://github.com/Girishbari/comic-cult/assets/38005544/f264d59a-5e9b-46dc-8c3d
     </tr>
     <tr>
       <td><img src="./assets/Google-Gemini-AI-model.webp" width="200" height="auto" loading="lazy" alt="gemini" /></td>
-      <td>Dialogue Generation</td>
-      <td>With advanced dialogue generation capabilities, your characters come to life on the comic pages. Using sophisticated summary, gemeni generates natural and dynamic dialogues that complement the visuals, enhancing the overall storytelling experience.</td>
+      <td>🗣️ Dialogue Generation</td>
+      <td>With advanced dialogue generation capabilities, your characters come to life on the comic pages. Using sophisticated summaries, Gemini generates natural and dynamic dialogues that complement the visuals, enhancing the overall storytelling experience.</td>
     </tr>
     <tr>
       <td><img src="./assets/DREAMSTUDIO.png" width="200" height="auto" loading="lazy" alt="dream studio" /></td>
-      <td>Comic Art Generation</td>
-      <td>: Leveraging stability AI and DreamStudio API keys, Comic Art Generation process is infused with stability and creativity. Stability AI ensures consistent and reliable image processing, while DreamStudio API keys unlock a world of artistic possibilities, allowing us to create captivating comic art with ease.</td>
+      <td>🎨 Comic Art Generation</td>
+      <td>Leveraging Stability AI and DreamStudio API keys, our Comic Art Generation process is infused with stability and creativity. Stability AI ensures consistent and reliable image processing, while DreamStudio API keys unlock a world of artistic possibilities, allowing us to create captivating comic art with ease.</td>
     </tr>
     <tr>
-      <td><img src="./assets/FLAGSMITH.jpg" width="200" height="auto" loading="lazy" alt="flagsmit" /></td>
-      <td>Flagsmith Feature Flags Integration</td>
-      <td>I've implemented  flagsmith feature flags into our project, providing you with ultimate control over its functionalities. Whether you need to toggle specific features on or off, our feature flags make it effortless to customize the comic generation process according to your preferences and requirements.</td>
+      <td><img src="./assets/FLAGSMITH.jpg" width="200" height="auto" loading="lazy" alt="flagsmith" /></td>
+      <td>⚙️ Flagsmith Feature Flags Integration</td>
+      <td>We've implemented Flagsmith feature flags into our project, providing you with ultimate control over its functionalities. Whether you need to toggle specific features on or off, our feature flags make it effortless to customize the comic generation process according to your preferences and requirements.</td>
     </tr>
-      <tr>
+    <tr>
       <td><img src="./assets/NODEMAILER.jpg" width="200" height="auto" loading="lazy" alt="nodemailer" /></td>
-      <td>Email Delivery of Comic PDF:</td>
-      <td>Seamlessly integrating nodemailer into our workflow, I've streamlined the process of delivering your comic PDF straight to your inbox. Nodemailer provides a robust and reliable solution for sending emails programmatically, ensuring that your comic masterpiece reaches its destination efficiently and securely.</td>
+      <td>📧 Email Delivery of Comic PDF</td>
+      <td>Seamlessly integrating Nodemailer into our workflow, we've streamlined the process of delivering your comic PDF straight to your inbox. Nodemailer provides a robust and reliable solution for sending emails programmatically, ensuring that your comic masterpiece reaches its destination efficiently and securely.</td>
     </tr>
-        
 </table>
 
-##🎨✍✨ Design Links
+## 🎨✍✨ Design Links
+
 <table>
     <tr>
         <th>Design</th>
@@ -53,45 +51,44 @@ https://github.com/Girishbari/comic-cult/assets/38005544/f264d59a-5e9b-46dc-8c3d
     </tr>
     <tr>
         <td>Design 1</td>
-        <td><a href="https://www.figma.com/design/noJe9ZZ2f3QUtF16Z8eErG/Untitled?node-id=0-1&t=SoiQ7EEFy9ART5JZ-1">Link to Design 1</a></td>
+        <td><a href="https://www.figma.com/design/noJe9ZZ2f3QUtF16Z8eErG/Untitled?node-id=0-1&t=SoiQ7EEFy9ART5JZ-1">🔗 Link to Design 1</a></td>
     </tr>
 </table>
 
-## 🤔 What challenges I ran into
+## 🤔 What Challenges I Ran Into
 
 <table>
     <tr>
-      <td>Comic Art generation</td>
-      <td>I wanted to make something that is of fun and also gives me a lot of learning I used apis of openAi even utilized the langchain for some instances but wanted to take my level above, I wanted to play around with images that directed me of using any stable diffusion model (which I had no Idea how to use) I tried running model locally also used google collab however all these things made me more perplexed at the end I was in the need of some Stable diffusion API and key which dream-studio and Stability AI provided</td>
+      <td>🖼️ Comic Art Generation</td>
+      <td>I wanted to create something fun that also provided a lot of learning opportunities. I used OpenAI's APIs and even utilized LangChain for some instances, but I wanted to take my project to the next level. I wanted to work with images, which led me to use Stable Diffusion models (which I had no idea how to use). I tried running the model locally and using Google Colab, but these approaches made me more perplexed. Eventually, I needed a Stable Diffusion API and key, which DreamStudio and Stability AI provided.</td>
     </tr>
     <tr>
-      <td>Workflow/pipeline of making</td>
-      <td>Probably I worked for this part mostly such a pipeline was the backbone of this project, I was too confused and wanted to leave project for once however, I slowly worked of making a streamlined flow of generating dialogues (gemini helped) and then getting images(Stability API helped) based on that dialogue, adding dialogues onto images(Canvas helped), all these steps I wanted to be reliable and smooth which could provide happy user experience </td>
+      <td>🔧 Workflow/Pipeline Creation</td>
+      <td>Developing the workflow was probably the most challenging part. This pipeline is the backbone of the project. At one point, I was so confused that I wanted to abandon the project. However, I slowly worked on creating a streamlined flow for generating dialogues (with Gemini's help), obtaining images (using Stability API), and adding dialogues onto images (using Canvas). Ensuring that all these steps were reliable and smooth was crucial for providing a good user experience.</td>
     </tr>
     <tr>
-      <td>Using promises</td>
-      <td>I have only heard and learned about promises and never utilized them in my any of the project until now, oh man they were life saver, they helped me in making and flow better and workable, I literally now want to use promises everywhere, I really got the understand of promises, async await, .then and catch</td>
+      <td>💬 Using Promises</td>
+      <td>I had only heard and learned about promises but never utilized them in any of my projects until now. They were a lifesaver, helping me make the workflow better and more workable. Now, I want to use promises everywhere. I really got to understand promises, async/await, .then, and .catch.</td>
     </tr>
-      <tr>
-      <td>failure of express func and integration of nodemailer</td>
-      <td>I am using express for my backend to serve front of various routes I never thought that res.sendfile, res.download would be so pathetic to use, they are made to sendfile from backend to frontend and guess what they were giving errors for the same, almost at this point also I am thinking to use them but they were so un-useful but then nodemailer came, I had this thought in back of my mind that if express functions does not work I will try sending pdf to user mail and using nodemailer this was so useful that I never imagined basically in few minutes I did this </td>
+    <tr>
+      <td>🚫 Failure of Express Functions and Integration of Nodemailer</td>
+      <td>I used Express for my backend to serve the front end through various routes. I never thought that res.sendfile and res.download would be so problematic. They are meant to send files from the backend to the frontend but were causing errors. I was considering abandoning this approach, but then Nodemailer came to mind. If Express functions didn't work, I planned to send the PDF to the user's email using Nodemailer, which proved to be extremely useful. In just a few minutes, I had it working.</td>
     </tr>
-        
 </table>
 
 ## 💻 Tech Stack
 
-- [Next.js](https://nextjs.org) - Next.js is an open-source web development framework.
-- [TypeScript](https://www.typescriptlang.org) - TypeScript is a free and open-source high-level programming language.
-- [Tailwind CSS](https://tailwindcss.com) - Tailwind CSS is a utility-first CSS framework for rapidly building modern websites without ever leaving your HTML.
-- [Daisy UI](https://tailwindcss.com) - It has inbuilt tailwind component which can be used
-- [Express](https://tailwindcss.com) - It is use to make server endpoint and serve front end as needed
-- [flagsmith](https://tailwindcss.com) - Manage feature flags across web, mobile, and server side applications
-- [Gemini AI](https://tailwindcss.com) - It has api which could be use ful to make prompt and get output
-- [Nodemailer](https://tailwindcss.com) - Used to send mail or attachment programmatically
-- [Turborepo](https://turbo.build/) - Incremental build system used for building monorepo projects
+- [Next.js](https://nextjs.org) - An open-source web development framework.
+- [TypeScript](https://www.typescriptlang.org) - A free and open-source high-level programming language.
+- [Tailwind CSS](https://tailwindcss.com) - A utility-first CSS framework for rapidly building modern websites.
+- [Daisy UI](https://daisyui.com) - Inbuilt Tailwind components.
+- [Express](https://expressjs.com) - Used to create server endpoints and serve the front end as needed.
+- [Flagsmith](https://flagsmith.com) - Manage feature flags across web, mobile, and server-side applications.
+- [Gemini AI](https://ai.google.dev) - Useful for making prompts and getting output.
+- [Nodemailer](https://nodemailer.com) - Used to send mail or attachments programmatically.
+- [Turborepo](https://turbo.build/) - Incremental build system used for building monorepo projects.
 
-# Setup Guide ✨
+## Setup Guide ✨
 
 Welcome to the **Comic Cult** project! Follow these steps to set up and run the project on your local machine.
 
@@ -170,29 +167,26 @@ If you encounter any issues during setup or while running the project, refer to 
 
 For more detailed information about the project and its components, refer to the project's main documentation.
 
+## 🤔 How to Contribute?
 
-<!-- ## 🔨 Locally install
+Contributing to open-source software (OSS) projects can be a rewarding and fulfilling experience. Not only can you learn new skills, but you can also help make a valuable contribution to a project that benefits the broader community.
 
-To run this project, you will need to add the following environment variables to your .env file (use .env.example for reference)
+- Remember to read the [Code of Conduct](
 
-<table>
-    <tr><td>[Gemini AI]</td> <td>https://ai.google.dev/docs </td> </tr>
-     <tr><td>[Dream Studio]</td> <td>https://dreamstudio.ai/ </td> </tr>
-      <tr><td>[Nodemailer]</td> <td> https://stackoverflow.com/questions/45478293/username-and-password-not-accepted-when-using-nodemailer</td> </tr>
-</table> -->
-
-## 🤔 How to contribute ?
-
-Contributing to open-source software (OSS) projects can be a rewarding and fulfilling experience. Not only can you learn new skills, but you can also help make a valuable contribution to a project that benefits the broader community
-
-- Remember to read [Code of Conduct](CODE_OF_CONDUCT.md) before contributing.
-
+CODE_OF_CONDUCT.md) before contributing.
 - Read the [Git Workflow](docs/git.md) to follow best practices.
-
 - Follow the [Contribution Guidelines](CONTRIBUTING.md).
+- Create an [issue](https://github.com/Girishbari/comic-cult/issues) to report bugs, vulnerabilities.
 
-- Create an [issue](https://github.com/Girishbari/comic-cult/issues) to report bugs, and vulnerabilities or add a new feature.
+# Message from PA
 
-- Remember to add a good commit message.
+Thank you for visiting comic-cult! 💝
+</br>Feel free to explore the code, contribute, and provide feedback.
 
-- Don't spam if you do it your PR/issue will be closed.
+## Thanks to All the Contributors
+
+A heartfelt thank you to everyone who has contributed to the growth of Comic-cult! Your time and efforts are deeply appreciated. Keep up the amazing work! 🙌
+
+<a href="https://github.com/Girishbari/comic-cult/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Girishbari/comic-cult" />
+</a>
