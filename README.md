@@ -183,6 +183,10 @@ CODE_OF_CONDUCT.md) before contributing.
 Thank you for visiting comic-cult! 💝
 </br>Feel free to explore the code, contribute, and provide feedback.
 
+## 📜 License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
 ## Thanks to All the Contributors
 
 A heartfelt thank you to everyone who has contributed to the growth of Comic-cult! Your time and efforts are deeply appreciated. Keep up the amazing work! 🙌
